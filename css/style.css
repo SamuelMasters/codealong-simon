@@ -20,11 +20,13 @@ h2 {
     margin-bottom: 35px;
     text-align: center;
 }
+
 .circle {
     border-radius: 50%;
     position: absolute;
     cursor: pointer;
 }
+
 .circle1 {
     height: 500px;
     width: 500px;
@@ -38,6 +40,7 @@ h2 {
     top: 50px;
     left: 50px;
 }
+
 .circle3 {
     height: 300px;
     width: 300px;
@@ -45,6 +48,7 @@ h2 {
     top: 100px;
     left: 100px;
 }
+
 .circle4 {
     height: 200px;
     width: 200px;
